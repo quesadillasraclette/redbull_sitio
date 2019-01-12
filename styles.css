@@ -1,0 +1,76 @@
+#logo { 
+    width: 200px;
+    height: 80px;
+    margin-left: 24px;
+    background: none;
+}
+
+#hockey {
+    background-image: url("ice_hockey.jpg");
+    background-size: 100% 100%;
+ 
+}
+
+#dakar {
+    background-image: url("dakar_machine.jp");
+    background-size: 100% 100%;
+}
+
+#mountain_running {
+    background-image: url("https://da3.rbmbtnx.net/v4/RBTV/pd/FO-1WK11GJBH5N11/im/a:s/st:x5YKoPbQAfr3BfYN9Lduaq/short_preview_mp4_720p_16x9.mp4");
+    background-size: 100% 100%;
+}
+
+
+h2 {
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+
+}
+
+h1 {
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+   
+}
+
+h3 {
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+  
+}
+
+#text {
+    margin-top: 350px;
+    margin-left: 20px;
+}
+
+
+.uk-search-toggle { 
+    margin-left:250px;
+}
+
+
+a { 
+    margin-left:100px;
+}
+
+.video:hover {
+    
+    border-style: solid;
+    border-width:0 0 3px 0;
+    border-color:red;
+}
+
+li.hockey { 
+    margin-top:10px
+}
+
+.uk-card-one {
+    background-image: url("ice_hockey.jpg");
+    background-size: 100% 100%;
+}
+
